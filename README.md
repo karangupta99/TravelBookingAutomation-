@@ -10,8 +10,29 @@
 | Starting Date | 25 Feb 2026 |
 | Prepared By | TesticalTesters |
 
-## Test case development
+---
 
+## Requirement analysis
+Objective: To test travel booking application
+
+### Functional Requirements
+- User should be able to search hotels.
+- User should be able to search available flights.
+
+### Non-Functional Requirements
+- Page load time < 5 secounds
+- Application should support Chrome, Firefox
+- Proper error handling
+
+---
+
+## Modoules
+- Hotel Booking Module
+- Flight Booking Module
+
+---
+
+## Test case development
 ### Hotel Booking Scenario 1
 When the use provides valid hotel search data. the correct data should be displayed.
 
@@ -27,11 +48,15 @@ When the difference of checkin and checkout date is greater than 15 nights. it s
 ### Hotel Booking Scenario 5
 When the user selects 'n' children then they should see 'n' input options for the age of thier children.
 
-### Hotel Booking Secnario 6
+### Hotel Booking Scenario 6
 When the user clicks on add room button. new room selection menu should be visible.
 
-### Hotel Booking Secnario 7
+### Hotel Booking Scenario 7
 When the user clicks on remove room button. the new added room should be removed.
+
+### Flight Booking Scenario 1
+
+---
 
 ## Timeline
 
