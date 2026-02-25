@@ -1,6 +1,8 @@
 # TravelBooking Automation Testing Report
 
 ## Project details
+|  |  |
+| --- | --- |
 | Project Name | travelbooking automation |
 | Application Name | [yatra](https://www.yatra.com/) |
 | Version | v1.0 |
