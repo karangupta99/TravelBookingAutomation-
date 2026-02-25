@@ -29,6 +29,16 @@ Objective: To test travel booking application
 ## Modoules
 - Hotel Booking Module
 - Flight Booking Module
+  
+---
+
+## Timeline
+
+- Requirement analysis
+- Test plan
+- Test Case Development
+- Test Environment Setup
+- Test Excution
 
 ---
 
@@ -114,13 +124,3 @@ When user click remove button the new added city should be removed
 | --- | --- |
 | Hotel booking | 7 |
 | Flight booking | 7 |
-
----
-
-## Timeline
-
-- Requirement analysis
-- Test plan
-- Test Case Development
-- Test Environment Setup
-- Test Excution
