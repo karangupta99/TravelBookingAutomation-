@@ -55,6 +55,25 @@ When the user clicks on add room button. new room selection menu should be visib
 When the user clicks on remove room button. the new added room should be removed.
 
 ### Flight Booking Scenario 1
+When user enter Valid details for booking flight then available flights should be display 
+
+### Flight Booking Scenerio 2
+When User Enter departure and Destination Location Same Error should be display
+
+### Flight Booking Scenerio 3
+When user enter same date of departure and destination then flight llist should be display
+
+### Flight Booking Scenerio 4
+When user Choose Economy class then then amount should be display accordingly
+
+### Flight Booking Scenerio 5
+When the user select any return date the trip option switch from one way to round trip 
+
+### Flight Booking Scenerio 6
+When user click add on another city  then new option should be display for selecting the city 
+
+### Flight Booking Scenerio 7
+When user click remove button the new added city should be removed  
 
 ---
 
