@@ -33,6 +33,23 @@ Objective: To test travel booking application
 ---
 
 ## Test case development
+|Field	|	Description |
+| --- | --- |
+|Test Case ID		|	Unique identifier (e.g., TC_01) |
+|Test Case Title	|	Short description of what is tested |
+|Module Name	|		Module under test |
+|Preconditions	|		Conditions before execution |
+|Test Scenario	|		What we are verifying |
+|Test Type	|		Smoke / Regression / Sanity |
+|Priority		|	High / Medium / Low |
+|Test Steps		|	Step-by-step actions |
+|Automation Script Name	 | Class name / Method name |
+|Test Data		|	Input values |
+|Expected Result	|	Expected system behavior |
+|Actual Result		|	Actual system output |
+|Status		|		Pass / Fail |
+|Remarks	|		Additional notes |
+
 ### Hotel Booking Scenario 1
 When the use provides valid hotel search data. the correct data should be displayed.
 
@@ -74,6 +91,29 @@ When user click add on another city  then new option should be display for selec
 
 ### Flight Booking Scenerio 7
 When user click remove button the new added city should be removed  
+
+---
+
+## Environment Setup
+| | |
+| --- | --- |
+| Automation tool/Version | Selenium WebDriver/<version> |
+| Programming Language/Version | Java/<version> |
+| IDE | Eclipse |
+| Framework | POM, PageFactory, TestNG |
+| Build Tool | Maven |
+| Reporting Tools | Extent Reports |
+| Logging | Log4j2 |
+| OS | Windows 11, Linux |
+| Browser | Chrome, firefox |
+
+---
+
+## Automaion Coverage Plan
+| Module | Total Scenarios |
+| --- | --- |
+| Hotel booking | 7 |
+| Flight booking | 7 |
 
 ---
 
