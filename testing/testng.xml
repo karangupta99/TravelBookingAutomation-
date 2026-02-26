@@ -1,0 +1,14 @@
+<suite name="Hotel Booking Suite">
+    <test name="Hotel Booking">
+        <classes>
+            <class name="com.yatra.testing.stepdefinitions.HTC_01"/>
+            <class name="com.yatra.testing.stepdefinitions.HTC_02"/>
+        </classes>
+    </test>
+    <test name="Flight Booking">
+        <classes>
+            <class name="com.yatra.testing.stepdefinitions.FTC_01"/>
+            <class name="com.yatra.testing.stepdefinitions.FTC_02"/>
+        </classes>
+    </test>
+</suite>
